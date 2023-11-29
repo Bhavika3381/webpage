@@ -1,0 +1,43 @@
+.navi{
+    
+    margin-left: 10rem;
+}
+
+.logo{
+    border: 0.1rem solid black;
+    border-radius: 0.4rem;
+    padding: 0.6rem 2.0rem;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    width: 100px;
+    float: left;
+    font-size: 1rem;
+    
+}
+.secitem{
+    padding:0.6rem 2.0rem ;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.right{
+    padding: 6px 20px;
+    border: 1px solid black;
+    background-color: rgb(220, 220, 54);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: .04rem;
+    float: right;
+    font-size: 1rem;
+}
+html{
+    font-size: 62.5%;
+}
+#why{
+    background-image: url(acu.png);
+    background-repeat: no-repeat;
+}
+ul{
+    font-size: 1.5rem;
+}
